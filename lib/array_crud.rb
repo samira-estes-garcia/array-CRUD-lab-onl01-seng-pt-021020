@@ -1,13 +1,13 @@
-def create_an_empty_array
-  
+def create_an_empty_array(arr)
+  arr = []
 end
 
-def create_an_array
-  
+def create_an_array(arr)
+  arr = [1,2,3,4]
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  array
 end
 
 def add_element_to_start_of_array(array, element)
